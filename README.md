@@ -1,6 +1,5 @@
 # tta-react-project
 
 # output image >>>>>>>
+![tta-project](https://github.com/EntireHall/tta-react-project/assets/137094978/a3e35ad5-e601-433e-a6ce-6873c65e457d)
 
-
-![tta-project](https://github.com/EntireHall/tta-react-project/assets/137094978/9cf6698f-556d-41ea-806b-73863da770ed)
